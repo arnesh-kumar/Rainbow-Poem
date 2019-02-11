@@ -9,5 +9,6 @@ Green
 Indigo
 Unicorn
 Yellow
+Custom Color - added in repo forked from arnesh-kumar/Rainbow-Poem
 These are the colors of the rainbow
 The unicorn
