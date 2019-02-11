@@ -10,5 +10,6 @@ Indigo
 Unicorn
 Yellow
 Custom Color - added in repo forked from arnesh-kumar/Rainbow-Poem
+Adding custom color 2
 These are the colors of the rainbow
 The unicorn
