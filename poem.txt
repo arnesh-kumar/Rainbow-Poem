@@ -13,3 +13,4 @@ Custom Color - added in repo forked from arnesh-kumar/Rainbow-Poem
 Adding custom color 2
 These are the colors of the rainbow
 The unicorn
+Adding this line from Git CLI and then will pust it to master branch in GitHub
